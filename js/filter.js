@@ -41,7 +41,7 @@ function getElements(filter) {
 
 function filterElements(elements) {
 	console.log("Elements to filter: ", elements);
-	elements.fadeOut("fast");
+	elements.fadeOut(3000); <!-- was "fast" -->
 }
 
 

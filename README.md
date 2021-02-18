@@ -1,36 +1,32 @@
-Trump Filter
+Vedum Filter
 ================================
 A Chrome extension that removes Norwegian populist politician Trygve Slagsvold Vedum from the Internet.
 
-Wholly based on the superb Trump Filter created by Rob Spectre, available at:
+The filter is wholly based on the Trump Filter created by Rob Spectre, available at:
 https://github.com/RobSpectre/Trump-Filter.git
 
-Overview (re. Trump, but much of this also applies to mr Vedum)
+Overview
 --------------------------
-In a culture fueled by celebrity and an electorate engineered for polarity,
-how can any one in these United States of America be surprised by the campaign
-of Donald J. Trump? Minted by shady back room real estate, distributed by
-reality television and crowned by incessant polling of ultra-early primary
-voters, Trump is the latest, hilarious permutation of American leadership. He is
-not the candidate we need, but surely the one we deserve.
+Tired after over four years of seeing Donald J. Trump on web sites every day,
+the Norwegian public is now faced with the equally annoying local nationalist and
+populist Trygve Slagsvold Vedum and his terrifying grin.
 
-In a political atmosphere where ascendance can be manufactured through attention,
-the only way to deflate Trump's political star is through suffocation. Trump 
-can only lose if we turn off the TV.
+The only way to deflate Vedum's political star is through suffocation. Vedum
+can only lose if we turn off the TV and reduce his internet presence.
 
-Thus, the Trump Filter is presented as part of the antidote for this toxic
+Thus, the Vedum Filter is presented as part of the antidote for this toxic
 candidacy. This Chrome extension will identify parts of a web page likely to
-contain Donald Trump and erase them from the Internet.
+contain Vedum and erase them from your view.
 
-Share with your friends and eliminate the only currency Trump can spend to win:
+Share with your friends and eliminate the only currency Vedum can spend to win:
 brand recognition.
 
 
 Features
 --------------------------
 
-* Detects instances of Donald Trump on web pages, warning users of the horror they may contain.
-* Attempts to identify semantically sections of the page likely to contain Donald Trump and removes them from the page.
+* Detects instances of Vedum on web pages, warning users of the horror they may contain.
+* Attempts to identify semantically sections of the page likely to contain Vedum and removes them from the page.
 * Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
 
 
@@ -51,7 +47,7 @@ Here's a howto to get the source of the Chrome Extension running in your environ
 
 1) Grab latest source
 <pre>
-git clone https://github.com/egilkv/Trump-Filter.git
+git clone https://github.com/egilkv/Vedum-Filter.git
 </pre>
 
 2) Enable Chrome Extension in your Chrome install
@@ -60,7 +56,7 @@ Open Chrome.
 Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
-Navigate to directory you installed Trump Filter and click Open.
+Navigate to directory you installed Vedum Filter and click Open.
 Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
 </pre>
 
