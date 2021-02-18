@@ -1,9 +1,11 @@
 Trump Filter
 ================================
-A Chrome extension that removes Donald Trump from the Internet.
+A Chrome extension that removes Norwegian populist politician Trygve Slagsvold Vedum from the Internet.
 
+Wholly based on the superb Trump Filter created by Rob Spectre, available at:
+https://github.com/RobSpectre/Trump-Filter.git
 
-Overview
+Overview (re. Trump, but much of this also applies to mr Vedum)
 --------------------------
 In a culture fueled by celebrity and an electorate engineered for polarity,
 how can any one in these United States of America be surprised by the campaign
@@ -43,13 +45,13 @@ Then surf the web, comforted by the protection you are now afforded.
 
 Installation (for Developers)
 -------------------------
-Want to hack on the Trump Filter?  Sweet!
+Want to hack on the Vedum Filter?  Sweet!
 
 Here's a howto to get the source of the Chrome Extension running in your environment.
 
 1) Grab latest source
 <pre>
-git clone https://github.com/RobSpectre/Trump-Filter.git
+git clone https://github.com/egilkv/Trump-Filter.git
 </pre>
 
 2) Enable Chrome Extension in your Chrome install

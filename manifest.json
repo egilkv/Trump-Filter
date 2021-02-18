@@ -1,12 +1,12 @@
-{
+﻿{
   "manifest_version": 2,
-  "name": "Trump Filter",
+  "name": "Vedum-filter",
   "version": "1.1.2",
-  "description": "Remove Donald Trump from the Internet.",
+  "description": "Fjerner Trygve Slagsvold Vedum fra nettsider.",
   "page_action" :
   {
     "default_icon" : "images/icon-19x19.png",
-    "default_title" : "Warning: Trump is on this page!"
+    "default_title" : "Advarsel: Vedum er på denne siden!"
   },
   "permissions": [
     "storage"

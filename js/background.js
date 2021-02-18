@@ -1,7 +1,7 @@
-function onMessage(request, sender, sendResponse) {
+﻿function onMessage(request, sender, sendResponse) {
   if (request.method == "saveStats") { 
     console.log("Storing stats...");
-    console.log ("Adding " + request.trumps + " Trumps to stats.");
+    console.log ("Adding " + request.trumps + " Vedums to stats.");
     chrome.storage.sync.get({
       trumps: 0,
       pages: 0
@@ -23,7 +23,7 @@ function onMessage(request, sender, sendResponse) {
       filter: 'mild'
     }, function(items) {
       console.log("Filtering on " + items.filter + " setting.");
-      ga('send', 'event', 'Filter', 'Trump', items.filter);
+      ga('send', 'event', 'Filter', 'Vedum', items.filter);
     });
     sendResponse({});
   }
