@@ -57,7 +57,7 @@ Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
 Navigate to directory you installed Vedum Filter and click Open.
-Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
+Chuckle to self as you reload this page and significant chunks of it slowly disappear.
 </pre>
 
 3) Make the world a safer place.
@@ -66,6 +66,6 @@ Chuckle to self as you reload this page and significant chunks of it suddenly di
 Meta
 -------------------------
 
-* Created by [Rob Spectre](http://brooklynhacker.com).
+* Original Trump filter created by [Rob Spectre](http://brooklynhacker.com).
 * This work is licensed under GPLv3.
 * Lovingly crafted in Brooklyn, NY.
